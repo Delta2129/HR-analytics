@@ -1,2 +1,2 @@
-# HR-analytics
-HR analytics (python+sql)
+# HR analytics projects
+python+sql
